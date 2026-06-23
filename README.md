@@ -86,9 +86,12 @@ This project replicates and extends that analysis using SQL and Python to examin
 
 The project includes three visualizations:
 
-1. **Bar Chart** — Average Depression Score (PHQ-9) by Length of Stay
-2. **Scatter Plot** — Social Connectedness Score vs. Depression Score (with OLS trendline)
-3. **Scatter Plot** — Acculturative Stress Score vs. Depression Score (with OLS trendline)
+1. **Bar Chart** — Average Depression Score (PHQ-9) by Length of Stay<img width="1400" height="1000" alt="DataLab plot" src="https://github.com/user-attachments/assets/89d646c6-4736-4fe3-8e57-6ea6970a38a7" />
+
+2. **Scatter Plot** — Social Connectedness Score vs. Depression Score (with OLS trendline)<img width="1400" height="1000" alt="DataLab plot" src="https://github.com/user-attachments/assets/afa59daf-c4f7-44bc-818f-98675bf24c8f" />
+
+3. **Scatter Plot** — Acculturative Stress Score vs. Depression Score (with OLS trendline)<img width="1400" height="1000" alt="DataLab plot" src="https://github.com/user-attachments/assets/afb1af26-3979-4f20-916e-cf7d94a420ce" />
+
 
 ---
 
